@@ -19,7 +19,6 @@
     "proxy",
     "heroku"
   ],
-  "main": "./server.js",
   "files": [
     "lib/",
     "test/",
